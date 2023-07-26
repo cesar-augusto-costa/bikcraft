@@ -9,7 +9,3 @@
 - animações;
 - php;
 - github;
-
-## Layout Proposto:
-
-![Layout - Grid](/bikcraft/img/bikcraft.png)
